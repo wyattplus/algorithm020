@@ -1,5 +1,5 @@
-# 时间复杂度：O（）
-# 空间复杂度：O（）
+# 时间复杂度：O(n×n!)
+# 空间复杂度：O（n）
 from typing import List
 
 
