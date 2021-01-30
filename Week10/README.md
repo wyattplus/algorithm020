@@ -4,14 +4,22 @@
 不可能70天就能完成一项技能的完美成长，这都需要时间积累的。
 自己所恐惧的，需要自己去面对，这就是成长。加油！
 # 整理的所有知识脑图
+## week1
 ![week1](/Xmind/week1.png)
+## week2
 ![week2](/Xmind/week2.png)
+## week3
 ![week3](/Xmind/week3.png)
+## week5
 ![week4](/Xmind/week4.png)
+## week6
 ![week6](/Xmind/week6.png)
+## week7
 ![week7](/Xmind/week7.png)
+## week8
 ![week8](/Xmind/week8-1.png)
 ![week8](/Xmind/week8-2.png)
+## week9
 ![week9](/Xmind/week9.png)
 
 
